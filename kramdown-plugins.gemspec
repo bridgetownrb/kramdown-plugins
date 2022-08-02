@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.author = "Bridgetown Team"
   spec.email = "maintainers@bridgetownrb.com"
 
-  spec.summary = "Provides a Kramdown parser with an extensible plugin system"
+  spec.summary = "Provides a Kramdown parser class with an extensible plugin system"
   spec.homepage = "https://github.com/bridgetownrb/kramdown-plugins"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.7"
